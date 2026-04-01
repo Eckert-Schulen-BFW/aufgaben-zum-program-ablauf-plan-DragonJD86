@@ -17,8 +17,8 @@ Führe alle Testfälle aus und notiere die tatsächliche Ausgabe deines Programm
 | **Eingabe Gewicht** | 70 |
 | **Eingabe Größe** | 1.75 |
 | **Erwartete Kategorie** | Normalgewicht |
-| **Tatsächliche Ausgabe** | *(hier einfügen)* |
-| **✅ Bestanden?** | Ja / Nein |
+| **Tatsächliche Ausgabe** | *(Ergebnis für Max Mustermann BMI: 22,86 Kategorie: Normalgewicht.)* |
+| **✅ Bestanden?** | Ja / Nein | Ja
 
 ---
 
@@ -30,8 +30,8 @@ Führe alle Testfälle aus und notiere die tatsächliche Ausgabe deines Programm
 | **Eingabe Gewicht** | 50 |
 | **Eingabe Größe** | 1.70 |
 | **Erwartete Kategorie** | Untergewicht |
-| **Tatsächliche Ausgabe** | *(hier einfügen)* |
-| **✅ Bestanden?** | Ja / Nein |
+| **Tatsächliche Ausgabe** | *(Ergebnis für Lisa Beispiel BMI: 17,30 Kategorie: Untergewicht.)* |
+| **✅ Bestanden?** | Ja / Nein | Ja
 
 ---
 
@@ -43,8 +43,8 @@ Führe alle Testfälle aus und notiere die tatsächliche Ausgabe deines Programm
 | **Eingabe Gewicht** | 95 |
 | **Eingabe Größe** | 1.75 |
 | **Erwartete Kategorie** | Übergewicht |
-| **Tatsächliche Ausgabe** | *(hier einfügen)* |
-| **✅ Bestanden?** | Ja / Nein |
+| **Tatsächliche Ausgabe** | *(Ergebnis für Tom Tester BMI: 31,02 Kategorie: Starkes Übergewicht.)* |
+| **✅ Bestanden?** | Ja / Nein | Nein
 
 ---
 
@@ -56,8 +56,8 @@ Führe alle Testfälle aus und notiere die tatsächliche Ausgabe deines Programm
 | **Eingabe Gewicht** | 120 |
 | **Eingabe Größe** | 1.75 |
 | **Erwartete Kategorie** | Starkes Übergewicht |
-| **Tatsächliche Ausgabe** | *(hier einfügen)* |
-| **✅ Bestanden?** | Ja / Nein |
+| **Tatsächliche Ausgabe** | *(Ergebnis für Anna Admin BMI: 39,18 Kategorie: Starkes Übergewicht.)* |
+| **✅ Bestanden?** | Ja / Nein | Ja
 
 ---
 
@@ -69,8 +69,8 @@ Führe alle Testfälle aus und notiere die tatsächliche Ausgabe deines Programm
 | **Eingabe Gewicht** | `abc` |
 | **Eingabe Größe** | (entfällt) |
 | **Erwartet** | Fehlermeldung, Programm endet |
-| **Tatsächliche Ausgabe** | *(hier einfügen)* |
-| **✅ Bestanden?** | Ja / Nein |
+| **Tatsächliche Ausgabe** | *(Fehler - Ungültige Eingabe!)* |
+| **✅ Bestanden?** | Ja / Nein | Ja
 
 ---
 
@@ -82,8 +82,8 @@ Führe alle Testfälle aus und notiere die tatsächliche Ausgabe deines Programm
 | **Eingabe Gewicht** | 70 |
 | **Eingabe Größe** | -1 |
 | **Erwartet** | Fehlermeldung (Größe ungültig), Programm endet |
-| **Tatsächliche Ausgabe** | *(hier einfügen)* |
-| **✅ Bestanden?** | Ja / Nein |
+| **Tatsächliche Ausgabe** | *(Fehler - Ungültige Eingabe!)* |
+| **✅ Bestanden?** | Ja / Nein | Ja
 
 ---
 
@@ -93,7 +93,7 @@ Führe alle Testfälle aus und notiere die tatsächliche Ausgabe deines Programm
 > Was passiert, wenn jemand `1,75` statt `1.75` als Größe eingibt? Teste es! Wie könnte man das Problem lösen?
 
 **Beobachtung beim Test:**  
-*(hier einfügen)*
+*(Ergebnis für sjs BMI: 0,00 Kategorie: Untergewicht.)*
 
 **Mögliche Lösung:**  
 *(hier einfügen)*
